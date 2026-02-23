@@ -1,5 +1,5 @@
 # Simulador-de-vaga-de-emprego-e-entrevista
-Prompt para entrvista de emprego e diagnostico de pontos de melhoria para vagas de interesse com auxílio de IA
+Prompt para entrevista de emprego e diagnostico de pontos de melhoria para vagas de interesse com auxílio de IA
 
 Aqui está um diagnóstico claro sobre os pontos que você precisa evoluir para aumentar suas chances de conquistar uma vaga como Dev Jr C#:
 
